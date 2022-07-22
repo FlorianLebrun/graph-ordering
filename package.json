@@ -1,0 +1,17 @@
+{
+  "name": "@polycuber/graph-ordering",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ./dist/exemple",
+    "build": "tsc",
+    "watch": "tsc -watch"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

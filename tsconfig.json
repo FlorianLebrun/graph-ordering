@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "ES2020",
+		"target": "ES2020",
+		"outDir": "./dist",
+		"declaration": true,
+		"strictNullChecks": false,
+		"rootDir": "src"
+	},
+	"files": [
+		"src/index.ts",
+		"src/exemple.ts"
+	]
+}
