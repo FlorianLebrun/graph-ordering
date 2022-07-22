@@ -2,6 +2,12 @@
 
 Basic graph ordering implementation of Tarjan algorithm.
 
+```
+npm install @polycuber/graph-ordering --save
+```
+
+## Exemple
+
 ```typescript
 
 import { GraphOrderingAlgorithm } from "./index.js"
